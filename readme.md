@@ -41,4 +41,4 @@ A partir destes dados, são criadas janelas de 10 dias para serem usadas como en
 Clone este repositório para a sua máquina local:
 
 ```bash
-git clone https://github.com/usuario/nome-do-repositorio.git
+git clone https://github.com/gabriels3t/Uso-de-RNN-para-prever-acoes.git
